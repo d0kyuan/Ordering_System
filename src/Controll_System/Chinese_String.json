@@ -1,0 +1,28 @@
+{
+    "Main_System_Title": "賣噹噹管理系統",
+    "Main_System_Order_System": "點餐系統",
+    "Main_System_Kitchenware_System" : "餐廚系統",
+    "Main_System_accounting_System":"會計系統",
+    
+    "Login_UI_Title":"帳號登入",
+    "Login_UI_account":"帳號",
+    "Login_UI_password":"密碼",
+    "Login_UI_login":"登入",
+    "Login_UI_cancel":"取消",
+    
+    "Order_UI_Title":"點餐系統",
+    "Order_UI_noodlesclass":"麵類",
+    "Order_UI_riceclass":"飯類",
+    "Order_UI_soupclass":"湯品",
+    "Order_UI_dumplinglclass":"餃類",
+    "Order_UI_drinklclass":"飲品",
+    "Order_UI_dessertclass":"甜點",
+    "Order_UI_sendmell":"送出點餐",
+    "Order_UI_backmenu":"返回主選單",
+    "Order_UI_staffid":"員工編號",
+    "Order_UI_Totalprice":"總價",
+    "Order_UI_addnew":"新增",   
+    "Order_UI_back":"返回",
+    "Order_UI_del":"刪除"
+
+}
